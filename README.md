@@ -122,7 +122,7 @@ I created a tool that helps both beginners and experts make **data-driven, low-r
 Thank you for exploring my Mutual Fund Analysis project!  
 I’m always open to suggestions, improvements, or collaboration ideas.
 
-📩 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/roja-eslavath0410)  
+📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/roja-eslavath0410/)  
 📧 Or drop an email: **rojae@myworkmails.com**
 
 Your feedback helps me grow and build better data-driven solutions. Let’s connect and discuss ideas!
